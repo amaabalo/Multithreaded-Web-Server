@@ -1,0 +1,12 @@
+Grade: 100
+Feedback:
+(i) Overall Excellent Job - Graphs, Tabulation Of Data, Reasoning out of factors with examples, Code Structure, Commenting, Documentation and Console Print. (ii) Only feedback is to have more than 3 seconds for timeout.
+SplitUp:
+Experiments for understanding/improving performance: 40
+Correct Implementation - Counting Requests: 10
+Correct Implementation - Aggregating Min/Max/Med Values: 10
+Implementation - Consideration of First Request, etc (Understanding what they're accounting): 10
+Readable statistics: 10
+Printing Statistics - Console/File: 10
+Code structure and complexity: 10
+Doesn't compile and/or doesn't run successfully: 0
